@@ -1,2 +1,8 @@
-# Pulse
-An app built in Flutter for social music playing
+# startup
+
+A new Flutter project.
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
